@@ -1,0 +1,8 @@
+{
+  "name": "Remix EduFlow - Student Focus \u0026 Task Manager",
+  "description": "A modern, aesthetic student productivity app featuring daily focus tasks, progress tracking, academic course management, project boards, and smart study breaks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
